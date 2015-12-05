@@ -1,0 +1,11 @@
+======================================
+Project1: SortedLL (04/10/2012)
+======================================
+
+Score: A
+
+Nice work, your code looks clean and consistent (although your
+predilection for avoiding curly braces is disconcerting...). Also,
+it's not a bad idea to put comments in the code! Nonetheless, your
+implementation passed all tests, no problems detected,
+congratulations!
